@@ -19,19 +19,11 @@ The main goal of this project is to systematically organize and store my academi
 ```
 PDP-3/
 ├── Subjects/
-│   ├── Programming/
-│   ├── Web_Development/
-│   ├── Database/
-│   ├── Software_Engineering/
+│   ├── Advanced Programming/
+│   ├── Data Structures & Algorithms/
+│   ├── Falsafa L5/
+│   ├── Internet of Things/
 │   └── ...
-├── Projects/
-│   ├── Django_ERP_System/
-│   ├── Telegram_Bot/
-│   └── ...
-├── Tasks/
-│   ├── Independent_Works/
-│   ├── Homework/
-│   └── Class_Tasks/
 ├── Reports/
 │   ├── Presentations/
 │   └── Documents/
@@ -81,9 +73,7 @@ This structure helps to review previously learned topics, prepare for exams, and
 ## 🏗️ How to Use
 To explore the materials, check the following folders:
 1. [`Subjects`](./Subjects) — subject materials  
-2. [`Projects`](./Projects) — major projects and practical works  
-3. [`Tasks`](./Tasks) — classroom and independent exercises  
-4. [`Reports`](./Reports) — reports, presentations, and documents  
+2. [`Reports`](./Reports) — reports, presentations, and documents  
 
 ---
 
